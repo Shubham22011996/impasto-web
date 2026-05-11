@@ -1,0 +1,3 @@
+:HL["/impasto-web/_next/static/chunks/15-p8q~yowg~m.css","style"]
+:HL["/impasto-web/_next/static/chunks/0f4q032_d-cb..css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"yewuwo3S0QpunbQVZDIyM"}
