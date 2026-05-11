@@ -1,0 +1,12 @@
+1:"$Sreact.fragment"
+2:I[25422,["/impasto-web/_next/static/chunks/0yoinjqdz5igs.js","/impasto-web/_next/static/chunks/0d3shmwh5_nmn.js","/impasto-web/_next/static/chunks/0.mly_4qo~_oi.js","/impasto-web/_next/static/chunks/0hhkcczd-_m4k.js"],"HomeHero"]
+3:I[98330,["/impasto-web/_next/static/chunks/0yoinjqdz5igs.js","/impasto-web/_next/static/chunks/0d3shmwh5_nmn.js","/impasto-web/_next/static/chunks/0.mly_4qo~_oi.js","/impasto-web/_next/static/chunks/0hhkcczd-_m4k.js"],"AboutSection"]
+4:I[17745,["/impasto-web/_next/static/chunks/0yoinjqdz5igs.js","/impasto-web/_next/static/chunks/0d3shmwh5_nmn.js","/impasto-web/_next/static/chunks/0.mly_4qo~_oi.js","/impasto-web/_next/static/chunks/0hhkcczd-_m4k.js"],"FeaturedDishes"]
+5:I[21994,["/impasto-web/_next/static/chunks/0yoinjqdz5igs.js","/impasto-web/_next/static/chunks/0d3shmwh5_nmn.js","/impasto-web/_next/static/chunks/0.mly_4qo~_oi.js","/impasto-web/_next/static/chunks/0hhkcczd-_m4k.js"],"CategorySection"]
+6:I[4363,["/impasto-web/_next/static/chunks/0yoinjqdz5igs.js","/impasto-web/_next/static/chunks/0d3shmwh5_nmn.js","/impasto-web/_next/static/chunks/0.mly_4qo~_oi.js","/impasto-web/_next/static/chunks/0hhkcczd-_m4k.js"],"TestimonialsSection"]
+7:I[17767,["/impasto-web/_next/static/chunks/0yoinjqdz5igs.js","/impasto-web/_next/static/chunks/0d3shmwh5_nmn.js","/impasto-web/_next/static/chunks/0.mly_4qo~_oi.js","/impasto-web/_next/static/chunks/0hhkcczd-_m4k.js"],"TopOffersSection"]
+8:I[40607,["/impasto-web/_next/static/chunks/0yoinjqdz5igs.js","/impasto-web/_next/static/chunks/0d3shmwh5_nmn.js","/impasto-web/_next/static/chunks/0.mly_4qo~_oi.js","/impasto-web/_next/static/chunks/0hhkcczd-_m4k.js"],"ContactSection"]
+9:I[97367,["/impasto-web/_next/static/chunks/0yoinjqdz5igs.js","/impasto-web/_next/static/chunks/0d3shmwh5_nmn.js","/impasto-web/_next/static/chunks/0.mly_4qo~_oi.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]],[["$","script","script-0",{"src":"/impasto-web/_next/static/chunks/0hhkcczd-_m4k.js","async":true}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-zL62aMurbLoNdlPkvtuN"}
+b:null
